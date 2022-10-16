@@ -9,3 +9,5 @@ def main():
         print("정수가 아닙니다.")
 
 main()
+
+print("hello world")
